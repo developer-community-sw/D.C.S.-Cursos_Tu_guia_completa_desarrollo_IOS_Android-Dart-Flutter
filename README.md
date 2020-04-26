@@ -10,6 +10,14 @@ D.C.S | Curso Online: Udemy | Cursos: Tu guía completa de desarrollo para IOS y
 
 - Introduccion a Dart <br>
 005 Introduccion a la seccion <br>
+006 Temas puntuales de la seccion <br>
+007 Por que Dart <br>
+008 Darpad-Dartpad dartlang org <br>
+008 Fuente <br>
+009 Tipos de datos - Numeros y Strings <br>
+010 Tipo de dato - Booleanos y condiciones <br>
+011 Tipo de dato - Lista <br>
+012 Tipo de dato - Map
 
 # Programas:
 
@@ -35,5 +43,15 @@ Kerith /pugins.md
 . Monokai Night <br>
 
 # Enlaces:
+
+Curso de Udemy: Flutter: Tu guía completa de desarrollo para IOS y Android <br>
+https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
+
 Instructor: Klerith/plugins.md (GitHub) <br>
 https://gist.github.com/Klerith/67058c9ad01e32214901fab5f664ec4f
+
+Dart: <br>
+https://dartpad.dartlang.org/
+
+Ejemplos: <br>
+https://github.com/Klerith/dart-basics/blob/master/01-main.dart
