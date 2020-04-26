@@ -17,7 +17,11 @@ D.C.S | Curso Online: Udemy | Cursos: Tu guía completa de desarrollo para IOS y
 009 Tipos de datos - Numeros y Strings <br>
 010 Tipo de dato - Booleanos y condiciones <br>
 011 Tipo de dato - Lista <br>
-012 Tipo de dato - Map
+012 Tipo de dato - Map <br>
+013 Funciones en Dart <br>
+014 Clases en Dart <br>
+015 Forma corta de definir propiedades de las clases <br>
+016 Constructores con nombre <br>
 
 # Programas:
 
