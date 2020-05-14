@@ -23,6 +23,32 @@ D.C.S | Curso Online: Udemy | Cursos: Tu guía completa de desarrollo para IOS y
 015 Forma corta de definir propiedades de las clases <br>
 016 Constructores con nombre <br>
 
+- instalacion de flutter, equipos virtuales y equipos fisicos 
+026 Instalaciones en Windows  <br>
+027 Creacion de un Android Virtual - Windows <br>
+028 Crear proyectos desde Visual Studio Code - Windows <br>
+029 Nota Si no te interesa la instalacion de OSX <br>
+030 Instalaciones en OSX <br>
+031 Configurar XCode y lanzar nuestro proyecto en iPhone Simulator <br>
+032 Android Studio y simulador de Android <br>
+033 Windows y OSX - Correr aplicacion en dispositivo fisico - Android <br>
+034 OSX - Correr aplicacion directamente en un iPhone <br>
+ <br>
+- Introducción a la Sección <br>
+035 Introduccion a la seccion <br>
+036 Temas puntuales de la seccion <br>
+037 Conceptos fundamentales de flutter <br>
+038 Arbol de Widgets <br>
+039 Estructura de un proyecto en Flutter <br>
+040 Presentaciones de la seccion <br>
+
+- Hola Mundo y Aplicaciones contador <br>
+041 Introduccion a la seccion <br>
+042 Temas puntuales de la seccion <br>
+043 Demostracion del resultado de esta seccion - Hola Mundo y Contador <br
+044 Inicio de proyecto - Contador y Hola Mundo
+045 Nuestro primer Widget
+
 # Programas:
 
 Kerith /pugins.md
@@ -59,3 +85,18 @@ https://dartpad.dartlang.org/
 
 Ejemplos: <br>
 https://github.com/Klerith/dart-basics/blob/master/01-main.dart
+
+# Instaladores:
+Flutter dev-Sitio-Oficial <br>
+https://flutter.dev/
+
+
+Descarga-de-Git <br>
+https://git-scm.com/download/mac
+
+Android-Studio-IDE <br>
+https://developer.android.com/studio
+
+# Documentacion:
+Flutter-install-guide-Documentaci-n <br>
+https://flutter.dev/docs/get-started/install/macos#android-setup
