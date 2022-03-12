@@ -15,9 +15,8 @@ D.C.S.-Cursos_Tu_guia_completa_desarrollo_IOS_Android-Dart-Flutter/count.svg" al
 005 Introduccion a la seccion <br>
 006 Temas puntuales de la seccion <br>
 007 Por que Dart <br>
-008 Darpad-Dartpad dartlang org <br>
-008 Fuente <br>
-009 Tipos de datos - Numeros y Strings <br>
+008 `Hola mundo` <br>
+009 `Tipos de datos - Numeros y Strings` <br>
 010 Tipo de dato - Booleanos y condiciones <br>
 011 Tipo de dato - Lista <br>
 012 Tipo de dato - Map <br>
