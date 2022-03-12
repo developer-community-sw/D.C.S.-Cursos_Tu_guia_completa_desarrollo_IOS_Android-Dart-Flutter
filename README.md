@@ -17,13 +17,18 @@ D.C.S.-Cursos_Tu_guia_completa_desarrollo_IOS_Android-Dart-Flutter/count.svg" al
 007 Por que Dart <br>
 008 `Hola mundo` <br>
 009 `Tipos de datos - Numeros y Strings` <br>
-010 Tipo de dato - Booleanos y condiciones <br>
-011 Tipo de dato - Lista <br>
-012 Tipo de dato - Map <br>
+010 `Tipo de dato - Booleanos y condiciones` <br>
+011 `Tipo de dato - Lista` <br>
+012 `Tipo de dato - Map` <br>
 013 Funciones en Dart <br>
 014 Clases en Dart <br>
-015 Forma corta de definir propiedades de las clases <br>
-016 Constructores con nombre <br>
+015 Constructores con nombre <br>
+016 Getters y Setters <br>
+017 Clases Abstractas <br>
+018 Extends <br>
+019 Mixins <br>
+020 Futures <br>
+021 Async - Await <br>
 
 - instalacion de flutter, equipos virtuales y equipos fisicos 
 026 Instalaciones en Windows  <br>
